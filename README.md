@@ -38,5 +38,3 @@ A **modern startup website** for an AI tech company, built with **HTML5, CSS3, a
 
 ---
 
-## 📂 Project Structure  
-
